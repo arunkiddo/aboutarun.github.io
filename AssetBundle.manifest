@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3671505898
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: trx
+      Dependencies: {}
